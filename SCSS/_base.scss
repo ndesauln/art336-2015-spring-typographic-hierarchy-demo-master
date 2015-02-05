@@ -1,0 +1,7 @@
+ body {
+     @include body-font-light;
+     margin: 0 auto;
+     //margin-top: top/bottom left/right;
+     max-width: 600px;
+     width: 100%;
+ }
